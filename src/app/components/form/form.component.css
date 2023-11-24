@@ -1,0 +1,10 @@
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+.registration-heading {
+    color: #333;
+}
+
+.registration-form {
+    margin-top: 20px;
+}
